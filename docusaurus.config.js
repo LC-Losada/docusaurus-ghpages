@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Lucas Losada',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Dinosaurs são fixes',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
